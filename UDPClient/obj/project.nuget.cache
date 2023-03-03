@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNC3qoJrFNC3G7SnkvM3JFvgJxU+wNy47ed0CcH3fGXpoypETVtTZHkLXzGj2UXXIdrWtlSuL12bB1wsV8jK8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luan\\Documents\\Code\\Faculdade\\ValidacaoRedes\\UDPClient\\UDPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luan\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

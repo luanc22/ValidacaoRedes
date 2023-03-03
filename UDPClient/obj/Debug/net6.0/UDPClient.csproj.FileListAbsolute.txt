@@ -1,0 +1,17 @@
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\UDPClient.csproj.AssemblyReference.cache
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\UDPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\UDPClient.AssemblyInfoInputs.cache
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\UDPClient.AssemblyInfo.cs
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\UDPClient.csproj.CoreCompileInputs.cache
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\bin\Debug\net6.0\UDPClient.exe
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\bin\Debug\net6.0\UDPClient.deps.json
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\bin\Debug\net6.0\UDPClient.runtimeconfig.json
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\bin\Debug\net6.0\UDPClient.dll
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\bin\Debug\net6.0\UDPClient.pdb
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\UDPClient.csproj.CopyComplete
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\UDPClient.dll
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\refint\UDPClient.dll
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\UDPClient.pdb
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\UDPClient.genruntimeconfig.cache
+C:\Users\Luan\Documents\Code\Faculdade\ValidacaoRedes\UDPClient\obj\Debug\net6.0\ref\UDPClient.dll
